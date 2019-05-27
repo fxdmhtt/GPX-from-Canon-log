@@ -48,7 +48,7 @@ for param_file in params:
     gpx_str = '''<?xml version="1.0" encoding="UTF-8"?>
     <gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0" xmlns="http://www.topografix.com/GPX/1/0" creator="Jogick" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
         <trk>
-            <name>Canon PowerShot SX280 HS</name>
+            <name>Canon EOS 6D Mark II</name>
             <trkseg>%s
             </trkseg>
         </trk>
